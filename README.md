@@ -10,7 +10,7 @@
 
 ---
 
-## Profile Summary
+## 🎓 About Me
 
 I'm **Divya Pal**, an **Artificial Intelligence and Machine Learning engineering student** with a growing interest in building systems that learn from data and solve practical problems.
 
