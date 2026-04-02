@@ -22,7 +22,7 @@ I enjoy breaking down complex ideas into simple concepts and then applying them 
 
 ---
 
-## Current Journey
+## 🚀 Current Journey
 
 - Studying the core concepts behind **supervised and unsupervised learning**
 - Practicing **data cleaning, preprocessing, and visualization**
@@ -32,13 +32,13 @@ I enjoy breaking down complex ideas into simple concepts and then applying them 
 
 ---
 
-## Areas I Enjoy
+## 💡 Areas I Enjoy
 
 <table>
 <tr>
 <td width="50%">
 
-### Intelligent Systems
+###  🤖 Intelligent Systems
 - Learning how models make predictions
 - Understanding training and evaluation flow
 - Exploring neural networks and pattern recognition
@@ -47,7 +47,7 @@ I enjoy breaking down complex ideas into simple concepts and then applying them 
 </td>
 <td width="50%">
 
-### Project-Based Learning
+###  🔬 Project-Based Learning
 - Turning concepts into mini applications
 - Practicing with datasets and experiments
 - Improving technical confidence through repetition
@@ -59,7 +59,7 @@ I enjoy breaking down complex ideas into simple concepts and then applying them 
 
 ---
 
-## Toolkit
+## 🛠️ Toolkit 🛠️
 
 ### Programming
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -85,7 +85,7 @@ I enjoy breaking down complex ideas into simple concepts and then applying them 
 
 ---
 
-## Project Corner
+## 🌟 Project Corner
 
 ### Mini Projects and Practice Work
 
@@ -109,7 +109,7 @@ I enjoy breaking down complex ideas into simple concepts and then applying them 
 
 ---
 
-## GitHub Insights
+## 🏆 GitHub Insights
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DivyaPal30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -122,7 +122,7 @@ I enjoy breaking down complex ideas into simple concepts and then applying them 
 
 ---
 
-## Strength Highlights
+## 🏆 Strength Highlights
 
 <div align="center">
 
@@ -134,7 +134,7 @@ I enjoy breaking down complex ideas into simple concepts and then applying them 
 
 ---
 
-## Connect
+## 🌐 Connect
 
 <div align="center">
 
